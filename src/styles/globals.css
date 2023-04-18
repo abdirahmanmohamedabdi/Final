@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-hero {
+  /* position: relative; */
+  /* height: 100%; */
+  /* background-image: url('/bg-pattern.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
+  background-color: black;
+}
